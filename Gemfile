@@ -1,0 +1,10 @@
+source 'http://rubygems.org/'
+
+gem 'sinatra'
+gem 'octokit'
+gem 'configuration'
+gem 'workers'
+gem 'pry'
+gem 'git'
+gem 'require_all'
+gem 'gitio'
